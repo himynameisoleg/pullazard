@@ -24,5 +24,11 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+  height: calc(100vh - 60px - 20px);
+  // background-color: white;
+}
+body {
+  // background-color: #F5AC78;
+  // border: solid #F08030 10px;
 }
 </style>
